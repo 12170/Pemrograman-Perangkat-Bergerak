@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+
+    <string-array name="menuMakanan">
+        <item>Rawon</item>
+        <item>Soto</item>
+        <item>Sate</item>
+        <item>Semanggi Surabaya</item>
+    </string-array>
+
+    <string-array name="hargaMakanan">
+        <item>Rp 15.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 15.000</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Resep</item>
+        <item>Resep</item>
+        <item>Resep</item>
+        <item>Resep</item>
+    </string-array>
+</resources>

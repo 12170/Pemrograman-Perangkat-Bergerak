@@ -1,2 +1,1 @@
-Biodata
 # Pemrograman-Perangkat-Bergerak
